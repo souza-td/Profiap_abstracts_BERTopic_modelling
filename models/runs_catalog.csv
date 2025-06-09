@@ -1,0 +1,11 @@
+cluster_size,n_topics,topics_path
+5,70,./models/topics_5.json
+10,28,./models/topics_10.json
+15,6,./models/topics_15.json
+20,4,./models/topics_20.json
+25,3,./models/topics_25.json
+30,2,./models/topics_30.json
+35,2,./models/topics_35.json
+40,2,./models/topics_40.json
+45,2,./models/topics_45.json
+50,2,./models/topics_50.json
