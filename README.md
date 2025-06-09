@@ -7,8 +7,8 @@ Topic modeling aplication in the abstracts of PROFIAP (Professional Master's in 
 
 ```bash
 # clone the repository
-git clone [https://github.com/<user>/bertopic-project.git](https://github.com/souza-td/Profiap_abstracts_BERTopic_modelling)
-cd bertopic-project
+git clone https://github.com/souza-td/Profiap_abstracts_BERTopic_modelling.git
+cd Profiap_abstracts_BERTopic_modelling
 
 # create a virtual environment and install dependencies
 pyenv install 3.10.12
