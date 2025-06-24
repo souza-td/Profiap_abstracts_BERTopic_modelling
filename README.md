@@ -18,6 +18,8 @@ poetry install
 # download spaCy Portuguese model
 chmod +x scripts/download_spacy_model.sh
 poetry run scripts/download_spacy_model.sh
+poetry run python 01_train_bertopic.py
+poetry run python 02_eval_octis.py
 ```
 
 ## License
